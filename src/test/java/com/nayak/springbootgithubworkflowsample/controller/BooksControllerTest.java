@@ -8,6 +8,6 @@ class BooksControllerTest {
 
     @Test
     public void basicUnitTest() {
-        assertThat(1).isEqualTo(1);
+        assertThat(0).isZero();
     }
 }
