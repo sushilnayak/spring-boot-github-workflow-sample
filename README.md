@@ -1,0 +1,1 @@
+![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/master/badge.svg)
